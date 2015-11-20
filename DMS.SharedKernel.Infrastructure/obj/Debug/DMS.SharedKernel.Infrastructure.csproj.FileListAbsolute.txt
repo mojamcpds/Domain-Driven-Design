@@ -1,0 +1,12 @@
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\obj\Debug\DMS.SharedKernel.Infrastructure.csprojResolveAssemblyReference.cache
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\bin\Debug\DMS.SharedKernel.Infrastructure.dll.config
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\bin\Debug\DMS.SharedKernel.Infrastructure.dll
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\bin\Debug\DMS.SharedKernel.Infrastructure.pdb
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\bin\Debug\EntityFramework.dll
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\bin\Debug\log4net.dll
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\bin\Debug\EntityFramework.xml
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\bin\Debug\log4net.xml
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\obj\Debug\DMS.SharedKernel.Infrastructure.dll
+E:\ProjectManagementSystems\DMS\DMS.SharedKernel.Infrastructure\obj\Debug\DMS.SharedKernel.Infrastructure.pdb

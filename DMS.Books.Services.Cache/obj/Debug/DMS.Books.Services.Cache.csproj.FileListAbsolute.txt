@@ -1,0 +1,5 @@
+E:\ProjectManagementSystems\DMS\DMS.Books.Services.Cache\bin\Debug\DMS.Books.Services.Cache.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Services.Cache\bin\Debug\DMS.Books.Services.Cache.pdb
+E:\ProjectManagementSystems\DMS\DMS.Books.Services.Cache\obj\Debug\DMS.Books.Services.Cache.csprojResolveAssemblyReference.cache
+E:\ProjectManagementSystems\DMS\DMS.Books.Services.Cache\obj\Debug\DMS.Books.Services.Cache.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Services.Cache\obj\Debug\DMS.Books.Services.Cache.pdb

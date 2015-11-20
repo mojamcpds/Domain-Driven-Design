@@ -1,0 +1,63 @@
+﻿@model IEnumerable<DMS.Books.Services.Viewmodels.BookDetailsView>
+
+@{
+    ViewBag.Title = "Indexx";
+}
+
+<h2>Indexx</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BookNameBengali)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BookNameEnglish)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryNameBengali)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryNameEnglish)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BookNameBengali)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BookNameEnglish)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryNameBengali)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryNameEnglish)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

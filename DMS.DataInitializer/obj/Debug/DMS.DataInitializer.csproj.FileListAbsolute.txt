@@ -1,0 +1,10 @@
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\bin\Debug\DMS.DataInitializer.dll.config
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\bin\Debug\DMS.DataInitializer.dll
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\bin\Debug\DMS.DataInitializer.pdb
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\bin\Debug\EntityFramework.dll
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\bin\Debug\EntityFramework.xml
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\obj\Debug\DMS.DataInitializer.csprojResolveAssemblyReference.cache
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\obj\Debug\DMS.DataInitializer.dll
+E:\ProjectManagementSystems\DMS\DMS.DataInitializer\obj\Debug\DMS.DataInitializer.pdb

@@ -1,0 +1,16 @@
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\obj\Debug\DMS.Books.Repositories.csprojResolveAssemblyReference.cache
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\DMS.Books.Repositories.dll.config
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\DMS.Books.Repositories.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\DMS.Books.Repositories.pdb
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\DMS.Books.Models.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\DMS.SharedKernel.Infrastructure.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\EntityFramework.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\log4net.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\DMS.Books.Models.pdb
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\DMS.SharedKernel.Infrastructure.pdb
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\EntityFramework.xml
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\bin\Debug\log4net.xml
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\obj\Debug\DMS.Books.Repositories.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Repositories\obj\Debug\DMS.Books.Repositories.pdb

@@ -1,0 +1,11 @@
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\bin\Debug\DMS.Books.Models.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\bin\Debug\DMS.Books.Models.pdb
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\bin\Debug\DMS.SharedKernel.Infrastructure.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\bin\Debug\EntityFramework.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\bin\Debug\log4net.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\bin\Debug\DMS.SharedKernel.Infrastructure.pdb
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\bin\Debug\EntityFramework.xml
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\bin\Debug\log4net.xml
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\obj\Debug\DMS.Books.Models.csprojResolveAssemblyReference.cache
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\obj\Debug\DMS.Books.Models.dll
+E:\ProjectManagementSystems\DMS\DMS.Books.Models\obj\Debug\DMS.Books.Models.pdb

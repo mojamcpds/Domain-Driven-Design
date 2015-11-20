@@ -1,0 +1,12 @@
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\bin\Debug\DatabaseInitializer.Test.dll.config
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\bin\Debug\DatabaseInitializer.Test.dll
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\bin\Debug\DatabaseInitializer.Test.pdb
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\bin\Debug\DMS.DataInitializer.dll
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\bin\Debug\EntityFramework.dll
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\bin\Debug\DMS.DataInitializer.pdb
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\bin\Debug\EntityFramework.xml
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\obj\Debug\DatabaseInitializer.Test.csprojResolveAssemblyReference.cache
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\obj\Debug\DatabaseInitializer.Test.dll
+E:\ProjectManagementSystems\DMS\DatabaseInitializer.Test\obj\Debug\DatabaseInitializer.Test.pdb
